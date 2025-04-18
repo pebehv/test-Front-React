@@ -13,7 +13,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://pebehv.github.io/test-front-react",
+  "homepage": "https://pebehv.github.io/test-Front-React",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
